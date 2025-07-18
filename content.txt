@@ -8,3 +8,4 @@ End to end chatbook implementation
  >Encapsulation
  >getter & setter
  >static method
+        can access the class directly without its object 
