@@ -1,4 +1,10 @@
 End to end chatbook implementation
+ >function vs method
+ >magic method/dunder method
+ >self
+ >you can create an attribute of a class outside the class eg. 
+        user = chatbook()
+        name = user.name("Sam")
  >Encapsulation
  >getter & setter
  >static method
