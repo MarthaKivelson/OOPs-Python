@@ -9,3 +9,11 @@ End to end chatbook implementation
  >getter & setter
  >static method
         can access the class directly without its object 
+
+ >Inheritance
+    > Why inheritance is needed? (code reusability, parent has no access yo child class)
+    > What gets Inherited? (Constructior, non private attributes, non private methods)
+    > Constructor overloading & method overloading
+    > Super keyword (used only inside the class, cannot access variables/attributes)
+
+    >Types of Inheritance 1. Single, 2. Multilevel, 3. Hierarchial, 4. Multiple <diamond>, 5. Hybrid
